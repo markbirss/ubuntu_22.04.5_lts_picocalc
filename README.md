@@ -41,3 +41,6 @@ Comes without any warranty whatsoever, use at own risk
 [Credits]
 hiro fu - hisptoot [PicoCalc Drivers - keybaord, pwm, sound and video
 
+Support my work and considder buying me a coffee
+
+https://buymeacoffee.com/mark.birss
