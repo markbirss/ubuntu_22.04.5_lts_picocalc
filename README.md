@@ -4,7 +4,7 @@ Ubuntu 22.04.5 LTS for PicoCalc
 
 ![image](https://github.com/user-attachments/assets/b561f5e8-7eb1-4f00-ba3c-ced6eff87fc0)
 
-'''
+```
 /# neofetch 
             .-/+oossssoo+/-.               root@luckfox 
         `:+ssssssssssssssssss+:`           ------------ 
@@ -28,7 +28,9 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Memory: 40MiB / 103MiB
             .-/+oossssoo+/-.
 
 /# 
-'''
+```
+
+
 
 [Disclaimer]
 Comes without any warranty whatsoever, use at own risk
