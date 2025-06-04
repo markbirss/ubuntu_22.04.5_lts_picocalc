@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1_ZB4IYeZRPyF8_tenlnzeXyUTgHh3j8R?usp=sha
 Comes without any warranty whatsoever, use at own risk
 
 [Credits]
-hiro fu - hisptoot [PicoCalc Drivers - keybaord, pwm, sound and video
+hiro fu - hisptoot [PicoCalc Drivers - keyboard, pwm, sound and video
 
 Support my work and considder buying me a coffee
 
