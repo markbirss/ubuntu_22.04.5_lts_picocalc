@@ -2,32 +2,7 @@
 Ubuntu 22.04.5 LTS for PicoCalc with Luckfox Lyra Core
 
 
-```
-/# neofetch 
-            .-/+oossssoo+/-.               root@luckfox 
-        `:+ssssssssssssssssss+:`           ------------ 
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.5 LTS armv7l 
-    .ossssssssssssssssssdMMMNysssso.       Host: Luckfox Lyra 
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.1.99 
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 19 mins 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 820 (dpkg) 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.1.16 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Terminal: adbd 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Generic DT based system (3) 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Memory: 40MiB / 103MiB 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.                           
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/                            
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
-
-/# 
-```
-
+![image](https://github.com/user-attachments/assets/1a168f7c-b409-4720-a152-86af7984ccdd)
 
 
 ![image](https://github.com/user-attachments/assets/b561f5e8-7eb1-4f00-ba3c-ced6eff87fc0)
