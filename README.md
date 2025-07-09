@@ -5,7 +5,7 @@ Ubuntu 22.04.5 LTS for PicoCalc with Luckfox Lyra Core
 I am busy with updating the image to Ubuntu 24.04 and testing dual band wifi dongles, but still need to find a place too host the image as it getting very large
 
 Just a Ubuntu 24.04 version
-https://github.com/markbirss/ubuntu-24.04.2-picocalc
+https://github.com/markbirss/ubuntu-24.04.2-meshtastic-picocalc-wio-sx1262
 
 A early developer edition large Ubuntu 24.04.2 Image is available here
 https://github.com/markbirss/ubuntu-24.04.2-picocalc
